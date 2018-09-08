@@ -1,0 +1,27 @@
+{
+  "name": "sample10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/murasuke/sample10.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/murasuke/sample10/issues"
+  },
+  "homepage": "https://github.com/murasuke/sample10#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "bunyan": "^1.8.12",
+    "restify": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/bunyan": "^1.8.4"
+  }
+}
